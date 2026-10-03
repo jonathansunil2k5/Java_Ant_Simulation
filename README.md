@@ -9,3 +9,6 @@ How it's meant to work:
 Ideally, this should result in the ants forming efficient routes to their food sources, a form of of emergent behaviour.
 
 Project inspired by [Sebastian Lague's](https://github.com/seblague) ant and slime video on Youtube, found [here](https://www.youtube.com/watch?v=X-iSQQgOd1A&t=392s),  and [Pezzo's](https://github.com/johnBuffer/AntSimulator) C++ simulation.
+
+<img width="706" height="680" alt="image" src="https://github.com/user-attachments/assets/1f574728-b850-446d-a29c-c6f91e85508b" />
+
